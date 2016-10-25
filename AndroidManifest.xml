@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.registertest.ResultActivity"
+            android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name="com.example.registertest.ChooseCityActivity"
+            android:label="@string/title_activity_choose_city" >
+        </activity>
     </application>
 
 </manifest>

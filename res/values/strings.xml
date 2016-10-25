@@ -14,6 +14,12 @@
     <string name="female">女</string>
     <string name="city">所在地:</string>
     <string name="register">注册</string>
-    
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_choose_city">ChooseCityActivity</string>
+    <string name="resultName">ChooseCityActivity</string>
+    <string name="resultPsd">ChooseCityActivity</string>
+    <string name="resultGender">ChooseCityActivity</string>
+    <string name="resultCity">ChooseCityActivity</string>
 
 </resources>
